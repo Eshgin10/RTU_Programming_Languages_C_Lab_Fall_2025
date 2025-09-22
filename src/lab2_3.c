@@ -23,6 +23,7 @@ int main(void) {
     scanf("%d", &n);
 
     // TODO: validate input and print all primes up to n
+    
 
     return 0;
 }
